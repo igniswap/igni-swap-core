@@ -1,7 +1,7 @@
 {
   "name": "@igniswap/igni-swap-core",
   "description": "🎛 Core contracts for the igni protocol",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://igniswap.com",
   "repository": {
     "type": "git",
